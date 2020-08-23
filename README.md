@@ -18,3 +18,8 @@ StatQuests https://www.youtube.com/watch?time_continue=1&v=wl1myxrtQHQ&feature=e
 
 Khan academy (Matrix)
 3blue1brown
+
+
+Questions
+
+What is the "universal approximation theorem" ?
