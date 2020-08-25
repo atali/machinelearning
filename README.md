@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=-ETQ97mXXF0&t=8203s
 
 StatQuests https://www.youtube.com/watch?time_continue=1&v=wl1myxrtQHQ&feature=emb_logo
 
+Andrew Ng - Standford 2018 Machine learning - https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
 
 # Maths
 
