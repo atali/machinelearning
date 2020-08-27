@@ -16,6 +16,12 @@ StatQuests https://www.youtube.com/watch?time_continue=1&v=wl1myxrtQHQ&feature=e
 Andrew Ng - Standford 2018 Machine learning - https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 
+http://introtodeeplearning.com/
+
+https://www.tensorflow.org/resources/learn-ml
+
+https://www.youtube.com/tensorflow
+
 # Maths
 
 Khan academy (Matrix)
