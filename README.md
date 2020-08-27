@@ -22,6 +22,8 @@ https://www.tensorflow.org/resources/learn-ml
 
 https://www.youtube.com/tensorflow
 
+https://developers.google.com/machine-learning/crash-course/ml-intro
+
 # Maths
 
 Khan academy (Matrix)
