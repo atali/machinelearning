@@ -24,6 +24,8 @@ https://www.youtube.com/tensorflow
 
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
+[ML from scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
 # Maths
 
 Khan academy (Matrix)
