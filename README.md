@@ -26,6 +26,8 @@ https://developers.google.com/machine-learning/crash-course/ml-intro
 
 [ML from scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
+[ML course from NYC University](https://www.youtube.com/channel/UCupQLyNchb9-2Z5lmUOIijw)
+
 # Maths
 
 Khan academy (Matrix)
