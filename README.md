@@ -37,3 +37,6 @@ Khan academy (Matrix)
 Questions
 
 What is the "universal approximation theorem" ?
+
+[Seeing theory: a visual introduction to probability and statistics](https://seeing-theory.brown.edu/basic-probability/index.html)
+
